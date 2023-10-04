@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "category": "Health",
+      "title": "Clean water for children",
+      "description": "We believe that good health is a fundamental human right. With your help, we can make a significant impact on the well-being of individuals, families, and communities. Our health donation initiative is dedicated to improving access to healthcare, supporting medical research, and ensuring that no one is left behind when it comes to their health.",
+      "color": "#0052FF",
+      "image": "https://i.ibb.co/0jW49VS/Health.png",
+      "amount": "Donate $750"
+    },
+    {
+      "id": 2,
+      "category": "Education",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "color": "#FF444A",
+      "image": "https://i.ibb.co/6syFs9y/Education.png",
+      "amount": "Donate $650"
+    },
+    {
+      "id": 3,
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Everyone deserves to stay warm, comfortable, and dignified, regardless of their circumstances. Our clothing donation drive aims to make a positive impact by providing clothing to those in need. Your generosity can help us bring warmth and hope to individuals and families facing difficult times.",
+      "cart_color": "green",
+      "image": "https://i.ibb.co/cCYB390/Clothing.png",
+      "amount": "Donate $550"
+    },
+    {
+      "id": 4,
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "No one should go to bed hungry. Our food donation drive is dedicated to fighting hunger and nourishing hope in our community. Your generosity can make a significant impact by providing essential food items to individuals and families in need.",
+      "cart_color": "purple",
+      "image": "https://i.ibb.co/Wk3m1NB/Food.png",
+      "amount": "Donate $450"
+    },
+    {
+        "id": 5,
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "description": "No one should go to bed hungry. Our food donation drive is dedicated to fighting hunger and nourishing hope in our community. Your generosity can make a significant impact by providing essential food items to individuals and families in need.",
+        "cart_color": "purple",
+        "image": "https://i.ibb.co/Wk3m1NB/Food.png",
+        "amount": "Donate $450"
+      },
+      {
+        "id": 6,
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "description": "Everyone deserves to stay warm, comfortable, and dignified, regardless of their circumstances. Our clothing donation drive aims to make a positive impact by providing clothing to those in need. Your generosity can help us bring warmth and hope to individuals and families facing difficult times.",
+        "cart_color": "green",
+        "image": "https://i.ibb.co/cCYB390/Clothing.png",
+        "amount": "Donate $550"
+      },
+      {
+        "id": 7,
+        "category": "Education",
+        "title": "Good education",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "color": "#FF444A",
+        "image": "https://i.ibb.co/6syFs9y/Education.png",
+        "amount": "Donate $650"
+      },
+    {
+      "id": 8,
+      "category": "Health",
+      "title": "Clean water for children",
+      "description": "We believe that good health is a fundamental human right. With your help, we can make a significant impact on the well-being of individuals, families, and communities. Our health donation initiative is dedicated to improving access to healthcare, supporting medical research, and ensuring that no one is left behind when it comes to their health.",
+      "color": "#0052FF",
+      "image": "https://i.ibb.co/0jW49VS/Health.png",
+      "amount": "Donate $750"
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "title": "Clean water for children",
+      "description": "We believe that good health is a fundamental human right. With your help, we can make a significant impact on the well-being of individuals, families, and communities. Our health donation initiative is dedicated to improving access to healthcare, supporting medical research, and ensuring that no one is left behind when it comes to their health.",
+      "color": "#0052FF",
+      "image": "https://i.ibb.co/0jW49VS/Health.png",
+      "amount": "Donate $750"
+    },
+    {
+      "id": 10,
+      "category": "Education",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "color": "#FF444A",
+      "image": "https://i.ibb.co/6syFs9y/Education.png",
+      "amount": "Donate $650"
+    },
+    {
+      "id": 11,
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Everyone deserves to stay warm, comfortable, and dignified, regardless of their circumstances. Our clothing donation drive aims to make a positive impact by providing clothing to those in need. Your generosity can help us bring warmth and hope to individuals and families facing difficult times.",
+      "cart_color": "green",
+      "image": "https://i.ibb.co/cCYB390/Clothing.png",
+      "amount": "Donate $550"
+    },
+    {
+      "id": 12,
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "No one should go to bed hungry. Our food donation drive is dedicated to fighting hunger and nourishing hope in our community. Your generosity can make a significant impact by providing essential food items to individuals and families in need.",
+      "cart_color": "purple",
+      "image": "https://i.ibb.co/Wk3m1NB/Food.png",
+      "amount": "Donate $450"
+    }
+   
+  ]
